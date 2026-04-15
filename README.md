@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 - 🎓 Pursuing **BCA (2024–2027) - Shoolini University**
-- 💻 Skilled in **Python, SQL, and Machine Learning basics**
+- 💻 Skilled in **Python, SQL, and Machine Learning**
 - 📊 Focused on **Data Science, Data Analysis & Visualization**
 - 🤖 Interested in **AI & Machine Learning**
 - 📍 New Delhi, India
