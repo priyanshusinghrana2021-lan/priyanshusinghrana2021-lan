@@ -5,25 +5,28 @@
 
 ## 🚀 About Me
 - 🎓 Pursuing **BCA (2024–2027) - Shoolini University**
-- 💻 Skilled in **Python, SQL, and Machine Learning**
-- 📊 Focused on **Data Science, Data Analysis & Visualization**
+- 💡 Passionate about **Data Science, Machine Learning & AI**
+- 💻 Skilled in **Python, SQL, Machine Learning, NLP, Deep Learning, AWS - Ongoing**
+- 🤖 Currently exploring **Deep Learning & AWS**
 - 🤖 Interested in **AI & Machine Learning**
-- 📍 New Delhi, India
-- 📫 priyanshusinghrana2021@gmail.com
+- 📍 Based in New Delhi, India
+- 📫 Reach me at: priyanshusinghrana2021@gmail.com
 
 ---
 
 ## 🛠️ Skills
 - **Programming:** Python, SQL  
-- **Machine Learning:** Basic Algorithms, Model Building  
-- **Data Analysis:** Pandas, Data Cleaning  
-- **Visualization:** Power BI, Excel  
-- **Tools:** Google Sheets, Power Query  
+- **Machine Learning:** Supervised learning, Unsupervised learning  
+- **Data Analysis:** Pandas, Data Cleaning,Feature Engineering
+- **Visualization:** Power BI, Excel, Matplotlib, Seaborn
+- **Tools:** GitHub, , Power Query, PyCharm, VScode
 
 ---
 
-## 🎯 Interests
-- 📊 Data Analysis & Visualization  
-- 🤖 Machine Learning & AI  
-- 📈 Building data-driven dashboards  
-- 🧠 Solving real-world problems using data  
+## 🎯 Curent Goals
+- 🚀 Build industry-level ML projects 
+- 🧠 Strengthen feature engineering & model optimization 
+- ☁️ Learn AWS & MLOps basics  
+
+## 🤝 Connect With Me
+📧 Email: priyanshusinghrana2021@gmail.com
