@@ -17,14 +17,14 @@
 ## 🛠️ Skills
 - **Programming:** Python, SQL  
 - **Machine Learning:**
-- Regression: Linear, Ridge, Lasso  
-- Classification: Logistic Regression, Decision Tree, Random Forest, KNN  
-- Clustering: K-Means  
-- Model Evaluation: Accuracy, Precision, Recall, F1-score, ROC-AUC  
-- Feature Engineering: Feature construction, Feature Splitting, Feature Transformation, Feature Encoding, Feature Scaling, Feature Extraction, Feature Selection, feature aggregation,features  -  interaction, feature binning
-- Imbalanced Data: SMOTE  
-- Hyperparameter Tuning: GridSearchCV  
-- ML Pipelines: Pipeline, ColumnTransformer   
+  Regression: Linear, Ridge, Lasso  
+  Classification: Logistic Regression, Decision Tree, Random Forest, KNN  
+  Clustering: K-Means  
+  Model Evaluation: Accuracy, Precision, Recall, F1-score, ROC-AUC  
+  Feature Engineering: Feature construction, Feature Splitting, Feature Transformation, Feature Encoding, Feature Scaling, Feature Extraction, Feature Selection, feature aggregation,features  -  interaction, feature binning
+  Imbalanced Data: SMOTE  
+  Hyperparameter Tuning: GridSearchCV  
+  ML Pipelines: Pipeline, ColumnTransformer   
 - **Data Analysis:** Numpy, Pandas, Data Cleaning, Feature Engineering
 - **Visualization:** Power BI, Excel, Matplotlib, Seaborn
 - **Tools:** GitHub, , Power Query, PyCharm, VScode
