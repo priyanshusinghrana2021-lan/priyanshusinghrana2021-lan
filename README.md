@@ -17,7 +17,7 @@
 ## 🛠️ Skills
 - **Programming:** Python, SQL  
 - **Machine Learning:** Supervised learning, Unsupervised learning  
-- **Data Analysis:** Pandas, Data Cleaning,Feature Engineering
+- **Data Analysis:** Numpy, Pandas, Data Cleaning, Feature Engineering
 - **Visualization:** Power BI, Excel, Matplotlib, Seaborn
 - **Tools:** GitHub, , Power Query, PyCharm, VScode
 
