@@ -6,7 +6,7 @@
 ## 🚀 About Me
 - 🎓 Pursuing **BCA (2024–2027) - Shoolini University**
 - 💡 Passionate about **Data Science, Machine Learning & AI**
-- 💻 Skilled in **Python, SQL, Machine Learning, NLP, Deep Learning, AWS - Ongoing**
+- 💻 Skilled in **Power BI, Python, SQL, Machine Learning, NLP, Deep Learning, AWS - Ongoing**
 - 🤖 Currently exploring **Deep Learning & AWS**
 - 🤖 Interested in **AI & Machine Learning**
 - 📍 Based in New Delhi, India
