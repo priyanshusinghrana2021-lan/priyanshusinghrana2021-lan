@@ -24,7 +24,8 @@
   Feature Engineering: Feature construction, Feature Splitting, Feature Transformation, Feature Encoding, Feature Scaling, Feature Extraction, Feature Selection, feature aggregation,features  -  interaction, feature binning
   Imbalanced Data: SMOTE  
   Hyperparameter Tuning: GridSearchCV  
-  ML Pipelines: Pipeline, ColumnTransformer   
+  ML Pipelines: Pipeline, ColumnTransformer
+-  **AWS Cloud:** knowledge of EC2 and S3, with understanding of deploying machine learning models (ongoing)
 - **Data Analysis:** Numpy, Pandas, Data Cleaning, Feature Engineering
 - **Visualization:** Power BI, Excel, Matplotlib, Seaborn
 - **Tools:** GitHub, , Power Query, PyCharm, VScode
