@@ -35,7 +35,7 @@
 ## 🎯 Curent Goals
 - 🚀 Build industry-level ML projects 
 - 🧠 Strengthen feature engineering & model optimization 
-- ☁️ Learn AWS & MLOps basics  
+- ☁️ Learn AWS & MLOps  
 
 ## 🤝 Connect With Me
 📧 Email: priyanshusinghrana2021@gmail.com
