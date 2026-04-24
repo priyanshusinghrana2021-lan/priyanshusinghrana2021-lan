@@ -1,4 +1,4 @@
-<h1 align="center">👋 Priyanshu Singh Rana</h1>
+<h1 align="center">Priyanshu Singh Rana</h1>
 <h3 align="center">👨‍💻 Aspiring Data Science | Machine Learning & AI Enthusiast 👨‍💻 </h3>
 
 ---
