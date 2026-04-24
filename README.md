@@ -28,7 +28,7 @@
 -  **AWS Cloud:** knowledge of EC2 and S3, with understanding of deploying machine learning models (ongoing)
 - **Data Analysis:** Numpy, Pandas, Data Cleaning, Feature Engineering
 - **Visualization:** Power BI, Excel, Matplotlib, Seaborn
-- **Tools:** GitHub, , Power Query, PyCharm, VScode
+- **Tools:** GitHub, , Power Query, PyCharm, VScode, jupyter
 
 ---
 
