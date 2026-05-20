@@ -38,5 +38,5 @@
 - ☁️ Learn AWS & MLOps  
 
 ## 🤝 Connect With Me
-Email: priyanshusinghrana2021@gmail.com
-LinkedIn : www.linkedin.com/in/priyanshu-singh-rana-5ba918388
+- Email: priyanshusinghrana2021@gmail.com
+- LinkedIn : www.linkedin.com/in/priyanshu-singh-rana-5ba918388
