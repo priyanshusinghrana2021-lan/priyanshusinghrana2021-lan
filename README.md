@@ -17,6 +17,20 @@ I enjoy transforming raw data into meaningful insights and developing scalable M
 
 ---
 
+## 🚀 Professional Experience
+
+### 🔹 AI/ML Engineer — Forenlytics Technology  
+**Project: Mobile ForX | Machine Learning & Data Analytics**
+
+- Developed ML solutions for forensic data analysis.
+- Built classification models for risk prediction.
+- Worked with forensic datasets including:
+  - Call logs
+  - SMS records
+  - Device information
+  - Application metadata
+  - Network traces
+ 
 ## 🛠️ Skills
 - **Programming:** Python, SQL  
 - **Machine Learning:**
