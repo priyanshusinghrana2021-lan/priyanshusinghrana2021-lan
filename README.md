@@ -30,6 +30,23 @@ I enjoy transforming raw data into meaningful insights and developing scalable M
   - Device information
   - Application metadata
   - Network traces
+    
+ ### Machine Learning Responsibilities:
+
+✔ Data preprocessing and feature engineering  
+✔ Exploratory Data Analysis (EDA)  
+✔ Model training and evaluation  
+✔ Hyperparameter tuning  
+✔ ML pipeline development  
+
+Models used:
+
+- Random Forest
+- XGBoost
+- Logistic Regression
+- SVM
+
+---
  
 ## 🛠️ Skills
 - **Programming:** Python, SQL  
@@ -42,6 +59,7 @@ I enjoy transforming raw data into meaningful insights and developing scalable M
   Imbalanced Data: SMOTE  
   Hyperparameter Tuning: GridSearchCV  
   ML Pipelines: Pipeline, ColumnTransformer
+  
 -  **AWS Cloud:** knowledge of EC2 and S3, with understanding of deploying machine learning models (ongoing)
 - **Data Analysis:** Numpy, Pandas, Data Cleaning, Feature Engineering
 - **Visualization:** Power BI, Excel, Matplotlib, Seaborn
