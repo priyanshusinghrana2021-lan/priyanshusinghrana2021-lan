@@ -2,7 +2,7 @@
 <h3 align="center">👨‍💻 AI/ML Engineer (Traditional AI) 👨‍💻 </h3>
 
 ---
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 I am an aspiring **AI/ML Engineer and Data Science professional** passionate about building intelligent systems using Machine Learning, Deep Learning, and Data Analytics.
 
@@ -18,7 +18,7 @@ I enjoy transforming raw data into meaningful insights and developing scalable M
 
 ---
 
-## 🚀 Professional Experience
+# 🚀 Professional Experience
 
 ### 🔹 AI/ML Engineer — Forenlytics Technology  
 **Project: Mobile ForX | Machine Learning & Data Analytics**
@@ -48,7 +48,7 @@ Models used:
 - SVM
 
 ---
-### 🔹 Data Science Intern — Syntecxhub
+# 🔹 Data Science Intern — Syntecxhub
 
 Worked on:
 
@@ -59,7 +59,8 @@ Worked on:
 
 ---
  
-## 🛠️ Skills
+# 🛠️ Skills
+
 - **Programming:** Python, SQL  
 - **Machine Learning:**
   Regression: Linear, Ridge, Lasso  
