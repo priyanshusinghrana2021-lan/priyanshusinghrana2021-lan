@@ -2,6 +2,7 @@
 <h3 align="center">👨‍💻 AI/ML Engineer (Traditional AI) 👨‍💻 </h3>
 
 ---
+## 👨‍💻 About Me
 
 I am an aspiring **AI/ML Engineer and Data Science professional** passionate about building intelligent systems using Machine Learning, Deep Learning, and Data Analytics.
 
@@ -47,6 +48,16 @@ Models used:
 - SVM
 
 ---
+### 🔹 Data Science Intern — Syntecxhub
+
+Worked on:
+
+- Data cleaning and preprocessing
+- Exploratory Data Analysis
+- Machine Learning model implementation
+- Data visualization
+
+---
  
 ## 🛠️ Skills
 - **Programming:** Python, SQL  
@@ -67,11 +78,58 @@ Models used:
 
 ---
 
+# 📌 Featured Projects
+
+## 🔥 Mobile ForX — AI Powered Mobile Forensics Platform
+
+An AI-based forensic analytics system designed to analyze mobile device data and identify suspicious patterns.
+
+### Technologies:
+Python | Machine Learning | Data Analytics
+
+### ML Models:
+
+- Random Forest
+- XGBoost
+- Logistic Regression
+- SVM
+
+Features:
+
+- Criminal Risk Classification
+- Suspicious Activity Detection
+- Data Pattern Analysis
 ## 🎯 Curent Goals
 - 🚀 Build industry-level ML projects 
 - 🧠 Strengthen feature engineering & model optimization 
-- ☁️ Learn AWS & MLOps  
+- ☁️ Learn AWS & MLOps
+
+---
+
+# 🏆 Certifications
+
+- Data Science & Analytics with AI
+- Python Programming
+- SQL Database
+- Power BI Analytics
+- Microsoft Excel
+- AWS Cloud Fundamentals
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced Machine Learning
+- Deep Learning
+- Generative AI
+- LangChain
+- LLM Applications
+- MLOps
+
+---
 
 ## 🤝 Connect With Me
 - Email: priyanshusinghrana2021@gmail.com
 - LinkedIn : www.linkedin.com/in/priyanshu-singh-rana-5ba918388
+
+⭐ **"Building intelligent systems with data, algorithms, and creativity."**
