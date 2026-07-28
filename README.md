@@ -1,16 +1,19 @@
 <h1 align="center">Priyanshu Singh Rana</h1>
-<h3 align="center">👨‍💻 Aspiring Data Science | Machine Learning & AI Enthusiast 👨‍💻 </h3>
+<h3 align="center">👨‍💻 AI/ML Engineer (Traditional AI) 👨‍💻 </h3>
 
 ---
 
-## 🚀 About Me
-- 🎓 Pursuing **BCA (2024–2027) - Shoolini University**
-- 💡 Passionate about **Data Science, Machine Learning & AI**
-- 💻 Skilled in **Power BI, Python, SQL, Machine Learning, NLP, Deep Learning, AWS - Ongoing**
-- 🤖 Currently exploring **Deep Learning & AWS**
-- 🤖 Interested in **AI & Machine Learning**
-- 📍 Based in New Delhi, India
-- 📫 Reach me at: priyanshusinghrana2021@gmail.com
+I am an aspiring **AI/ML Engineer and Data Science professional** passionate about building intelligent systems using Machine Learning, Deep Learning, and Data Analytics.
+
+Currently pursuing **BCA (2024-2027)** and working on real-world AI/ML projects involving:
+
+- Machine Learning Model Development
+- Data Analysis & Visualization
+- Natural Language Processing
+- Predictive Modeling
+- AI-powered Applications
+
+I enjoy transforming raw data into meaningful insights and developing scalable ML solutions.
 
 ---
 
